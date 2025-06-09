@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+p{
+    color: darkslategray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    line-height: 18px;
+    width: 750px;
+    background-color: azure;
+    padding: 15px;
+}
+.paragraf2 {
+    color: midnightblue;
+    background-color: azure;
+}
+.noviblok{
+    background-color: azure;
+    padding: 15px;
+    margin: 15px;
+    width: 50%;
+}
+h1, h2, h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: indigo;
+}
+.pozadina{
+    background-image:  url("./slike/pozadina.jpg");
+}
+.drugapozadina {
+    background-image: url("./slike/pozadina2.jpg") ;
+}
+a:link {
+    color: darkblue;
+    background-color: aquamarine;
+    padding : 5px;
+    line-height: 40px;
+}
+a:hover{
+    background-color: aqua;
+}
